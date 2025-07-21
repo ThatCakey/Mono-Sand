@@ -1,0 +1,32 @@
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/Falling sand
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/Falling sand.deps.json
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/Falling sand.runtimeconfig.json
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/Falling sand.dll
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/Falling sand.pdb
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/MonoGame.Framework.dll
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/NVorbis.dll
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/runtimes/android-arm/native/libopenal.so
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/runtimes/android-arm64/native/libopenal.so
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/runtimes/android-x64/native/libopenal.so
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/runtimes/android-x86/native/libopenal.so
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/runtimes/ios-arm64/native/libopenal.dylib
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/runtimes/iossimulator-arm64/native/libopenal.dylib
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/runtimes/iossimulator-x64/native/libopenal.dylib
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/runtimes/linux-x64/native/libopenal.so
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/runtimes/osx/native/libopenal.dylib
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/runtimes/win-x64/native/openal.dll
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/runtimes/linux-x64/native/libSDL2-2.0.so.0
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/runtimes/osx/native/libSDL2-2.0.0.dylib
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/runtimes/win-x64/native/SDL2.dll
+/home/cakey/Documents/Projects/Falling sand/obj/Debug/net8.0/Falling sand.csproj.AssemblyReference.cache
+/home/cakey/Documents/Projects/Falling sand/obj/Debug/net8.0/Falling sand.GeneratedMSBuildEditorConfig.editorconfig
+/home/cakey/Documents/Projects/Falling sand/obj/Debug/net8.0/Falling sand.AssemblyInfoInputs.cache
+/home/cakey/Documents/Projects/Falling sand/obj/Debug/net8.0/Falling sand.AssemblyInfo.cs
+/home/cakey/Documents/Projects/Falling sand/obj/Debug/net8.0/Falling sand.csproj.CoreCompileInputs.cache
+/home/cakey/Documents/Projects/Falling sand/obj/Debug/net8.0/Falling .7E1C1599.Up2Date
+/home/cakey/Documents/Projects/Falling sand/obj/Debug/net8.0/Falling sand.dll
+/home/cakey/Documents/Projects/Falling sand/obj/Debug/net8.0/refint/Falling sand.dll
+/home/cakey/Documents/Projects/Falling sand/obj/Debug/net8.0/Falling sand.pdb
+/home/cakey/Documents/Projects/Falling sand/obj/Debug/net8.0/Falling sand.genruntimeconfig.cache
+/home/cakey/Documents/Projects/Falling sand/obj/Debug/net8.0/ref/Falling sand.dll
+/home/cakey/Documents/Projects/Falling sand/bin/Debug/net8.0/Content/Layout.bmp
